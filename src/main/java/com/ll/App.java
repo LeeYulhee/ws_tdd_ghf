@@ -14,6 +14,7 @@ public class App {
         long lastWiseSayingId = 0;
 
         while (true) {
+
             System.out.print("명령) ");
 
             String cmd = sc.nextLine().trim();
